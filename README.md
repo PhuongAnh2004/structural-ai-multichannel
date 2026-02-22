@@ -1,4 +1,4 @@
-# Structural-to-AI Policy Learning for Multichannel Pricing
+# Structural-to-AI Policy Learning for Multichannel Retail
 
 This repository accompanies the manuscript submitted to the 
 European Journal of Operational Research (EJOR).
