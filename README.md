@@ -1,7 +1,7 @@
 # Structural-to-AI Policy Learning for Multichannel Retail Decision Making
 
 This repository accompanies the manuscript submitted to the 
-European Journal of Operational Research (EJOR).
+Journal of Retailing and Consumer Services.
 
 ## Files
 
